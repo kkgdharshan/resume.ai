@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+resume_analyzer.db
+backend/uploads/*
+!backend/uploads/.gitkeep
